@@ -1,3 +1,3 @@
 # git-test
 Learning full stack
-Hello Odin
+Hello
